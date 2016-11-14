@@ -4,6 +4,7 @@ package mandelbrot;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import javax.swing.*;
+import java.awt.event.KeyEvent;
 
 
 public class MandelbrotSetApplication extends javax.swing.JFrame {
